@@ -49,6 +49,9 @@ Access Control Lists ensured that only authorized clients could access network r
 ## 🏁 Conclusion
 ACLs are critical tools in network administration, enabling secure segmentation by allowing or denying traffic at a granular level. Properly configured ACLs help protect servers and sensitive data from unauthorized access while ensuring that trusted devices communicate efficiently. They form an essential layer of defense in modern network management and security practices.
 
+## 📎 Project File
+📂 **[Download Project File – Networking project](https://drive.google.com/file/d/18Kg23eoW43PqYrpGLTZoBETMlp9POggh/view?usp=sharing)**  
+(Contains screenshots, configurations, and detailed documentation.)
 ---
 
 
